@@ -1,0 +1,15 @@
+{
+  "id": "com.mrpetenorth.ghibli",
+  "version": "1.0.0",
+  "name": "Studio Ghibli",
+  "description": "Studio Ghibli collection",
+  "resources": ["catalog"],
+  "types": ["movie"],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "ghibli",
+      "name": "Studio Ghibli"
+    }
+  ]
+}
