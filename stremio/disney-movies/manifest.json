@@ -1,0 +1,19 @@
+{
+  "id": "com.mrpetenorth.disneymovies",
+  "version": "1.0.0",
+  "name": "Disney Movies",
+  "description": "Disney Movies restored from the original Journey catalogue",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "disney-movies",
+      "name": "Disney Movies"
+    }
+  ]
+}
