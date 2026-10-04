@@ -1,0 +1,19 @@
+{
+  "id": "com.mrpetenorth.hitchcockmovies",
+  "version": "1.0.0",
+  "name": "Hitchcock Movies",
+  "description": "Hitchcock Movies restored from the original Journey catalogue",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "hitchcock-movies",
+      "name": "Hitchcock Movies"
+    }
+  ]
+}
