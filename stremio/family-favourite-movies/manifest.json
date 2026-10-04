@@ -1,0 +1,19 @@
+{
+  "id": "com.mrpetenorth.familyfavouritemovies",
+  "version": "1.0.0",
+  "name": "Family Favourite Movies",
+  "description": "Family Favourite Movies restored from TMDB list 8584540",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "family-favourite-movies",
+      "name": "Family Favourite Movies"
+    }
+  ]
+}
