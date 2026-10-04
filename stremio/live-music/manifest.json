@@ -1,0 +1,19 @@
+{
+  "id": "com.mrpetenorth.livemusic",
+  "version": "1.0.0",
+  "name": "Live Music",
+  "description": "Live Music restored from the original Journey catalogue",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "live-music",
+      "name": "Live Music"
+    }
+  ]
+}
