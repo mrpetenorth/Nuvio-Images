@@ -1,0 +1,832 @@
+{
+  "metas": [
+    {
+      "id": "tt0371746",
+      "name": "Iron Man",
+      "releaseInfo": 2008,
+      "poster": "https://images.metahub.space/poster/medium/tt0371746/img",
+      "type": "movie",
+      "imdbRating": "7.9",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Jon Favreau"
+      ]
+    },
+    {
+      "id": "tt1228705",
+      "name": "Iron Man 2",
+      "releaseInfo": 2010,
+      "poster": "https://images.metahub.space/poster/medium/tt1228705/img",
+      "type": "movie",
+      "imdbRating": "6.9",
+      "genres": [
+        "Action",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Jon Favreau"
+      ]
+    },
+    {
+      "id": "tt0458339",
+      "name": "Captain America: The First Avenger",
+      "releaseInfo": 2011,
+      "poster": "https://images.metahub.space/poster/medium/tt0458339/img",
+      "type": "movie",
+      "imdbRating": "6.9",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Joe Johnston"
+      ]
+    },
+    {
+      "id": "tt0800369",
+      "name": "Thor",
+      "releaseInfo": 2011,
+      "poster": "https://images.metahub.space/poster/medium/tt0800369/img",
+      "type": "movie",
+      "imdbRating": "7",
+      "genres": [
+        "Action",
+        " Fantasy"
+      ],
+      "director": [
+        "Kenneth Branagh"
+      ]
+    },
+    {
+      "id": "tt0948470",
+      "name": "The Amazing Spider-Man",
+      "releaseInfo": 2012,
+      "poster": "https://images.metahub.space/poster/medium/tt0948470/img",
+      "type": "movie",
+      "imdbRating": "6.9",
+      "genres": [
+        "Action",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Marc Webb"
+      ]
+    },
+    {
+      "id": "tt0848228",
+      "name": "The Avengers",
+      "releaseInfo": 2012,
+      "poster": "https://images.metahub.space/poster/medium/tt0848228/img",
+      "type": "movie",
+      "imdbRating": "8",
+      "genres": [
+        "Action",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Joss Whedon"
+      ]
+    },
+    {
+      "id": "tt1981115",
+      "name": "Thor: The Dark World",
+      "releaseInfo": 2013,
+      "poster": "https://images.metahub.space/poster/medium/tt1981115/img",
+      "type": "movie",
+      "imdbRating": "6.7",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Fantasy",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Alan Taylor"
+      ]
+    },
+    {
+      "id": "tt1300854",
+      "name": "Iron Man 3",
+      "releaseInfo": 2013,
+      "poster": "https://images.metahub.space/poster/medium/tt1300854/img",
+      "type": "movie",
+      "imdbRating": "7.1",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Shane Black"
+      ]
+    },
+    {
+      "id": "tt1872181",
+      "name": "The Amazing Spider-Man 2",
+      "releaseInfo": 2014,
+      "poster": "https://images.metahub.space/poster/medium/tt1872181/img",
+      "type": "movie",
+      "imdbRating": "6.6",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Marc Webb"
+      ]
+    },
+    {
+      "id": "tt1843866",
+      "name": "Captain America: The Winter Soldier",
+      "releaseInfo": 2014,
+      "poster": "https://images.metahub.space/poster/medium/tt1843866/img",
+      "type": "movie",
+      "imdbRating": "7.7",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Sci-Fi",
+        " Thriller"
+      ],
+      "director": [
+        "Anthony Russo",
+        " Joe Russo"
+      ]
+    },
+    {
+      "id": "tt2015381",
+      "name": "Guardians of the Galaxy",
+      "releaseInfo": 2014,
+      "poster": "https://images.metahub.space/poster/medium/tt2015381/img",
+      "type": "movie",
+      "imdbRating": "8",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Comedy",
+        " Sci-Fi"
+      ],
+      "director": [
+        "James Gunn"
+      ]
+    },
+    {
+      "id": "tt1502712",
+      "name": "Fantastic Four",
+      "releaseInfo": 2015,
+      "poster": "https://images.metahub.space/poster/medium/tt1502712/img",
+      "type": "movie",
+      "imdbRating": "4.3",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Josh Trank"
+      ]
+    },
+    {
+      "id": "tt0478970",
+      "name": "Ant-Man",
+      "releaseInfo": 2015,
+      "poster": "https://images.metahub.space/poster/medium/tt0478970/img",
+      "type": "movie",
+      "imdbRating": "7.2",
+      "genres": [
+        "Action",
+        " Comedy",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Peyton Reed"
+      ]
+    },
+    {
+      "id": "tt2395427",
+      "name": "Avengers: Age of Ultron",
+      "releaseInfo": 2015,
+      "poster": "https://images.metahub.space/poster/medium/tt2395427/img",
+      "type": "movie",
+      "imdbRating": "7.3",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Joss Whedon"
+      ]
+    },
+    {
+      "id": "tt1211837",
+      "name": "Doctor Strange",
+      "releaseInfo": 2016,
+      "poster": "https://images.metahub.space/poster/medium/tt1211837/img",
+      "type": "movie",
+      "imdbRating": "7.5",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Fantasy",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Scott Derrickson"
+      ]
+    },
+    {
+      "id": "tt3498820",
+      "name": "Captain America: Civil War",
+      "releaseInfo": 2016,
+      "poster": "https://images.metahub.space/poster/medium/tt3498820/img",
+      "type": "movie",
+      "imdbRating": "7.8",
+      "genres": [
+        "Action",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Anthony Russo",
+        " Joe Russo"
+      ]
+    },
+    {
+      "id": "tt2250912",
+      "name": "Spider-Man: Homecoming",
+      "releaseInfo": 2017,
+      "poster": "https://images.metahub.space/poster/medium/tt2250912/img",
+      "type": "movie",
+      "imdbRating": "7.4",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Jon Watts"
+      ]
+    },
+    {
+      "id": "tt3896198",
+      "name": "Guardians of the Galaxy Vol. 2",
+      "releaseInfo": 2017,
+      "poster": "https://images.metahub.space/poster/medium/tt3896198/img",
+      "type": "movie",
+      "imdbRating": "7.6",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Comedy",
+        " Fantasy",
+        " Sci-Fi"
+      ],
+      "director": [
+        "James Gunn"
+      ]
+    },
+    {
+      "id": "tt3501632",
+      "name": "Thor: Ragnarok",
+      "releaseInfo": 2017,
+      "poster": "https://images.metahub.space/poster/medium/tt3501632/img",
+      "type": "movie",
+      "imdbRating": "7.9",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Comedy",
+        " Fantasy",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Taika Waititi"
+      ]
+    },
+    {
+      "id": "tt1270797",
+      "name": "Venom",
+      "releaseInfo": 2018,
+      "poster": "https://images.metahub.space/poster/medium/tt1270797/img",
+      "type": "movie",
+      "imdbRating": "6.6",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Ruben Fleischer"
+      ]
+    },
+    {
+      "id": "tt5095030",
+      "name": "Ant-Man and the Wasp",
+      "releaseInfo": 2018,
+      "poster": "https://images.metahub.space/poster/medium/tt5095030/img",
+      "type": "movie",
+      "imdbRating": "7",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Comedy",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Peyton Reed"
+      ]
+    },
+    {
+      "id": "tt1825683",
+      "name": "Black Panther",
+      "releaseInfo": 2018,
+      "poster": "https://images.metahub.space/poster/medium/tt1825683/img",
+      "type": "movie",
+      "imdbRating": "7.3",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Ryan Coogler"
+      ]
+    },
+    {
+      "id": "tt4633694",
+      "name": "Spider-Man: Into the Spider-Verse",
+      "releaseInfo": 2018,
+      "poster": "https://images.metahub.space/poster/medium/tt4633694/img",
+      "type": "movie",
+      "imdbRating": "8.4",
+      "genres": [
+        "Animation",
+        " Action",
+        " Adventure",
+        " Family",
+        " Fantasy",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Bob Persichetti",
+        " Peter Ramsey",
+        " Rodney Rothman"
+      ]
+    },
+    {
+      "id": "tt4154756",
+      "name": "Avengers: Infinity War",
+      "releaseInfo": 2018,
+      "poster": "https://images.metahub.space/poster/medium/tt4154756/img",
+      "type": "movie",
+      "imdbRating": "8.4",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Anthony Russo",
+        " Joe Russo"
+      ]
+    },
+    {
+      "id": "tt4154664",
+      "name": "Captain Marvel",
+      "releaseInfo": 2019,
+      "poster": "https://images.metahub.space/poster/medium/tt4154664/img",
+      "type": "movie",
+      "imdbRating": "6.7",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Anna Boden",
+        " Ryan Fleck"
+      ]
+    },
+    {
+      "id": "tt6320628",
+      "name": "Spider-Man: Far from Home",
+      "releaseInfo": 2019,
+      "poster": "https://images.metahub.space/poster/medium/tt6320628/img",
+      "type": "movie",
+      "imdbRating": "7.3",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Comedy",
+        " Fantasy",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Jon Watts"
+      ]
+    },
+    {
+      "id": "tt4154796",
+      "name": "Avengers: Endgame",
+      "releaseInfo": 2019,
+      "poster": "https://images.metahub.space/poster/medium/tt4154796/img",
+      "type": "movie",
+      "imdbRating": "8.4",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Anthony Russo",
+        " Joe Russo"
+      ]
+    },
+    {
+      "id": "tt7097896",
+      "name": "Venom: Let There Be Carnage",
+      "releaseInfo": 2021,
+      "poster": "https://images.metahub.space/poster/medium/tt7097896/img",
+      "type": "movie",
+      "imdbRating": "5.9",
+      "genres": [
+        "Action",
+        " Comedy",
+        " Horror",
+        " Mystery",
+        " Sci-Fi",
+        " Thriller"
+      ],
+      "director": [
+        "Andy Serkis"
+      ]
+    },
+    {
+      "id": "tt9032400",
+      "name": "Eternals",
+      "releaseInfo": 2021,
+      "poster": "https://images.metahub.space/poster/medium/tt9032400/img",
+      "type": "movie",
+      "imdbRating": "6.2",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Fantasy",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Chloé Zhao"
+      ]
+    },
+    {
+      "id": "tt3480822",
+      "name": "Black Widow",
+      "releaseInfo": 2021,
+      "poster": "https://images.metahub.space/poster/medium/tt3480822/img",
+      "type": "movie",
+      "imdbRating": "6.6",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Cate Shortland"
+      ]
+    },
+    {
+      "id": "tt9376612",
+      "name": "Shang-Chi and the Legend of the Ten Rings",
+      "releaseInfo": 2021,
+      "poster": "https://images.metahub.space/poster/medium/tt9376612/img",
+      "type": "movie",
+      "imdbRating": "7.3",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Fantasy",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Destin Daniel Cretton"
+      ]
+    },
+    {
+      "id": "tt10872600",
+      "name": "Spider-Man: No Way Home",
+      "releaseInfo": 2021,
+      "poster": "https://images.metahub.space/poster/medium/tt10872600/img",
+      "type": "movie",
+      "imdbRating": "8.2",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Fantasy",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Jon Watts"
+      ]
+    },
+    {
+      "id": "tt5108870",
+      "name": "Morbius",
+      "releaseInfo": 2022,
+      "poster": "https://images.metahub.space/poster/medium/tt5108870/img",
+      "type": "movie",
+      "imdbRating": "5.1",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Horror",
+        " Sci-Fi",
+        " Thriller"
+      ],
+      "director": [
+        "Daniel Espinosa"
+      ]
+    },
+    {
+      "id": "tt10648342",
+      "name": "Thor: Love and Thunder",
+      "releaseInfo": 2022,
+      "poster": "https://images.metahub.space/poster/medium/tt10648342/img",
+      "type": "movie",
+      "imdbRating": "6.1",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Comedy",
+        " Romance",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Taika Waititi"
+      ]
+    },
+    {
+      "id": "tt9114286",
+      "name": "Black Panther: Wakanda Forever",
+      "releaseInfo": 2022,
+      "poster": "https://images.metahub.space/poster/medium/tt9114286/img",
+      "type": "movie",
+      "imdbRating": "6.6",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Drama",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Ryan Coogler"
+      ]
+    },
+    {
+      "id": "tt9419884",
+      "name": "Doctor Strange in the Multiverse of Madness",
+      "releaseInfo": 2022,
+      "poster": "https://images.metahub.space/poster/medium/tt9419884/img",
+      "type": "movie",
+      "imdbRating": "6.9",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Fantasy",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Sam Raimi"
+      ]
+    },
+    {
+      "id": "tt15318872",
+      "name": "Werewolf by Night",
+      "releaseInfo": 2022,
+      "poster": "https://images.metahub.space/poster/medium/tt15318872/img",
+      "type": "movie",
+      "imdbRating": "7.1",
+      "genres": [
+        "Action",
+        " Drama",
+        " Fantasy",
+        " Horror",
+        " Mystery",
+        " Thriller"
+      ],
+      "director": [
+        "Michael Giacchino"
+      ]
+    },
+    {
+      "id": "tt10676048",
+      "name": "The Marvels",
+      "releaseInfo": 2023,
+      "poster": "https://images.metahub.space/poster/medium/tt10676048/img",
+      "type": "movie",
+      "imdbRating": "5.5",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Nia DaCosta"
+      ]
+    },
+    {
+      "id": "tt10954600",
+      "name": "Ant-Man and the Wasp: Quantumania",
+      "releaseInfo": 2023,
+      "poster": "https://images.metahub.space/poster/medium/tt10954600/img",
+      "type": "movie",
+      "imdbRating": "6",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Comedy",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Peyton Reed"
+      ]
+    },
+    {
+      "id": "tt6791350",
+      "name": "Guardians of the Galaxy Vol. 3",
+      "releaseInfo": 2023,
+      "poster": "https://images.metahub.space/poster/medium/tt6791350/img",
+      "type": "movie",
+      "imdbRating": "7.9",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Comedy",
+        " Fantasy",
+        " Sci-Fi"
+      ],
+      "director": [
+        "James Gunn"
+      ]
+    },
+    {
+      "id": "tt9362722",
+      "name": "Spider-Man: Across the Spider-Verse",
+      "releaseInfo": 2023,
+      "poster": "https://images.metahub.space/poster/medium/tt9362722/img",
+      "type": "movie",
+      "imdbRating": "8.5",
+      "genres": [
+        "Animation",
+        " Action",
+        " Adventure",
+        " Family",
+        " Fantasy",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Joaquim Dos Santos",
+        " Kemp Powers",
+        " Justin K. Thompson"
+      ]
+    },
+    {
+      "id": "tt11057302",
+      "name": "Madame Web",
+      "releaseInfo": 2024,
+      "poster": "https://images.metahub.space/poster/medium/tt11057302/img",
+      "type": "movie",
+      "imdbRating": "4.1",
+      "genres": [
+        "Action",
+        " Thriller"
+      ],
+      "director": [
+        "S.J. Clarkson"
+      ]
+    },
+    {
+      "id": "tt8790086",
+      "name": "Kraven the Hunter",
+      "releaseInfo": 2024,
+      "poster": "https://images.metahub.space/poster/medium/tt8790086/img",
+      "type": "movie",
+      "imdbRating": "5.5",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Thriller"
+      ],
+      "director": [
+        "J.C. Chandor"
+      ]
+    },
+    {
+      "id": "tt6263850",
+      "name": "Deadpool & Wolverine",
+      "releaseInfo": 2024,
+      "poster": "https://images.metahub.space/poster/medium/tt6263850/img",
+      "type": "movie",
+      "imdbRating": "7.5",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Comedy",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Shawn Levy"
+      ]
+    },
+    {
+      "id": "tt14513804",
+      "name": "Captain America: Brave New World",
+      "releaseInfo": 2025,
+      "poster": "https://images.metahub.space/poster/medium/tt14513804/img",
+      "type": "movie",
+      "imdbRating": "5.6",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Julius Onah"
+      ]
+    },
+    {
+      "id": "tt10676052",
+      "name": "The Fantastic Four: First Steps",
+      "releaseInfo": 2025,
+      "poster": "https://images.metahub.space/poster/medium/tt10676052/img",
+      "type": "movie",
+      "imdbRating": "6.9",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Matt Shakman"
+      ]
+    },
+    {
+      "id": "tt20969586",
+      "name": "Thunderbolts*",
+      "releaseInfo": 2025,
+      "poster": "https://images.metahub.space/poster/medium/tt20969586/img",
+      "type": "movie",
+      "imdbRating": "7.1",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Crime",
+        " Drama",
+        " Fantasy",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Jake Schreier"
+      ]
+    },
+    {
+      "id": "tt21357150",
+      "name": "Avengers: Doomsday",
+      "releaseInfo": 2026,
+      "poster": "https://images.metahub.space/poster/medium/tt21357150/img",
+      "type": "movie",
+      "imdbRating": "",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Anthony Russo",
+        " Joe Russo"
+      ]
+    },
+    {
+      "id": "tt22084616",
+      "name": "Spider-Man: Brand New Day",
+      "releaseInfo": 2026,
+      "poster": "https://images.metahub.space/poster/medium/tt22084616/img",
+      "type": "movie",
+      "imdbRating": "",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Fantasy",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Destin Daniel Cretton"
+      ]
+    }
+  ]
+}

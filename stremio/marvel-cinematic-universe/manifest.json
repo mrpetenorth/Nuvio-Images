@@ -1,0 +1,19 @@
+{
+  "id": "com.mrpetenorth.marvelcinematicuniverse",
+  "version": "1.0.0",
+  "name": "Marvel Cinematic Universe",
+  "description": "Marvel Cinematic Universe collection restored from the original Journey catalogue",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "marvel-cinematic-universe",
+      "name": "Marvel Cinematic Universe"
+    }
+  ]
+}
