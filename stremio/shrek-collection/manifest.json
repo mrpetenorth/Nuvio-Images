@@ -1,0 +1,19 @@
+{
+  "id": "com.mrpetenorth.shrekcollection",
+  "version": "1.0.0",
+  "name": "Shrek Collection",
+  "description": "Shrek Collection restored from the original Journey catalogue",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "shrek-collection",
+      "name": "Shrek Collection"
+    }
+  ]
+}

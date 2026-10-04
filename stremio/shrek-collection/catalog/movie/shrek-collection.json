@@ -1,0 +1,374 @@
+{
+  "metas": [
+    {
+      "id": "tt0126029",
+      "name": "Shrek",
+      "releaseInfo": 2001,
+      "poster": "https://images.metahub.space/poster/medium/tt0126029/img",
+      "type": "movie",
+      "imdbRating": "7.9",
+      "genres": [
+        "Animation",
+        " Adventure",
+        " Comedy",
+        " Family",
+        " Fantasy",
+        " Romance"
+      ],
+      "director": [
+        "Andrew Adamson",
+        " Vicky Jenson"
+      ]
+    },
+    {
+      "id": "tt0298148",
+      "name": "Shrek 2",
+      "releaseInfo": 2004,
+      "poster": "https://images.metahub.space/poster/medium/tt0298148/img",
+      "type": "movie",
+      "imdbRating": "7.4",
+      "genres": [
+        "Animation",
+        " Adventure",
+        " Comedy",
+        " Family",
+        " Fantasy",
+        " Romance"
+      ],
+      "director": [
+        "Andrew Adamson",
+        " Kelly Asbury",
+        " Conrad Vernon"
+      ]
+    },
+    {
+      "id": "tt0413267",
+      "name": "Shrek the Third",
+      "releaseInfo": 2007,
+      "poster": "https://images.metahub.space/poster/medium/tt0413267/img",
+      "type": "movie",
+      "imdbRating": "6.1",
+      "genres": [
+        "Animation",
+        " Adventure",
+        " Comedy",
+        " Family",
+        " Fantasy",
+        " Romance"
+      ],
+      "director": [
+        "Chris Miller",
+        " Raman Hui"
+      ]
+    },
+    {
+      "id": "tt0892791",
+      "name": "Shrek Forever After",
+      "releaseInfo": 2010,
+      "poster": "https://images.metahub.space/poster/medium/tt0892791/img",
+      "type": "movie",
+      "imdbRating": "6.3",
+      "genres": [
+        "Animation",
+        " Adventure",
+        " Comedy",
+        " Family",
+        " Fantasy",
+        " Romance"
+      ],
+      "director": [
+        "Mike Mitchell"
+      ]
+    },
+    {
+      "id": "tt6113186",
+      "name": "Shrek 5",
+      "releaseInfo": 2027,
+      "poster": "https://images.metahub.space/poster/medium/tt6113186/img",
+      "type": "movie",
+      "imdbRating": "",
+      "genres": [
+        "Animation",
+        " Adventure",
+        " Comedy",
+        " Family",
+        " Fantasy"
+      ],
+      "director": [
+        "Walt Dohrn",
+        " Conrad Vernon",
+        " Brad Ableson"
+      ]
+    },
+    {
+      "id": "tt0448694",
+      "name": "Puss in Boots",
+      "releaseInfo": 2011,
+      "poster": "https://images.metahub.space/poster/medium/tt0448694/img",
+      "type": "movie",
+      "imdbRating": "6.6",
+      "genres": [
+        "Animation",
+        " Action",
+        " Adventure",
+        " Comedy",
+        " Family",
+        " Fantasy"
+      ],
+      "director": [
+        "Chris Miller"
+      ]
+    },
+    {
+      "id": "tt3915174",
+      "name": "Puss in Boots: The Last Wish",
+      "releaseInfo": 2022,
+      "poster": "https://images.metahub.space/poster/medium/tt3915174/img",
+      "type": "movie",
+      "imdbRating": "7.8",
+      "genres": [
+        "Animation",
+        " Action",
+        " Adventure",
+        " Comedy",
+        " Family",
+        " Fantasy"
+      ],
+      "director": [
+        "Joel Crawford",
+        " Januel Mercado"
+      ]
+    },
+    {
+      "id": "tt0307461",
+      "name": "Shrek in the Swamp Karaoke Dance Party",
+      "releaseInfo": 2001,
+      "poster": "https://images.metahub.space/poster/medium/tt0307461/img",
+      "type": "movie",
+      "imdbRating": "6.9",
+      "genres": [
+        "Animation",
+        " Short",
+        " Comedy",
+        " Family",
+        " Music",
+        " Romance"
+      ],
+      "director": [
+        "Andrew Adamson",
+        " Vicky Jenson"
+      ]
+    },
+    {
+      "id": "tt0360985",
+      "name": "Shrek: The Ghost of Lord Farquaad",
+      "releaseInfo": 2003,
+      "poster": "https://images.metahub.space/poster/medium/tt0360985/img",
+      "type": "movie",
+      "imdbRating": "6.2",
+      "genres": [
+        "Animation",
+        " Short",
+        " Adventure",
+        " Comedy",
+        " Family",
+        " Fantasy"
+      ],
+      "director": [
+        "Simon J. Smith"
+      ]
+    },
+    {
+      "id": "tt0438844",
+      "name": "Far Far Away Idol",
+      "releaseInfo": 2004,
+      "poster": "https://images.metahub.space/poster/medium/tt0438844/img",
+      "type": "movie",
+      "imdbRating": "6.2",
+      "genres": [
+        "Animation",
+        " Short",
+        " Comedy",
+        " Family",
+        " Fantasy",
+        " Music"
+      ],
+      "director": [
+        "Simon J. Smith"
+      ]
+    },
+    {
+      "id": "tt1830577",
+      "name": "Donkey's Caroling Christmas-tacular",
+      "releaseInfo": 2010,
+      "poster": "https://images.metahub.space/poster/medium/tt1830577/img",
+      "type": "movie",
+      "imdbRating": "5.3",
+      "genres": [
+        "Animation",
+        " Short",
+        " Comedy",
+        " Family",
+        " Music",
+        " Musical"
+      ],
+      "director": [
+        "Walt Dohrn",
+        " Raman Hui"
+      ]
+    },
+    {
+      "id": "tt9583666",
+      "name": "Shrek's Yule Log",
+      "releaseInfo": 2010,
+      "poster": "https://images.metahub.space/poster/medium/tt9583666/img",
+      "type": "movie",
+      "imdbRating": "5.2",
+      "genres": [
+        "Animation",
+        " Short",
+        " Comedy",
+        " Fantasy"
+      ],
+      "director": [
+        "Walt Dohrn"
+      ]
+    },
+    {
+      "id": "tt2051999",
+      "name": "Shrek: Thriller Night",
+      "releaseInfo": 2011,
+      "poster": "https://images.metahub.space/poster/medium/tt2051999/img",
+      "type": "movie",
+      "imdbRating": "6.1",
+      "genres": [
+        "Animation",
+        " Short",
+        " Comedy",
+        " Family",
+        " Fantasy",
+        " Horror",
+        " Music",
+        " Thriller"
+      ],
+      "director": [
+        "Sean Bishop",
+        " Gary Trousdale"
+      ]
+    },
+    {
+      "id": "tt2087984",
+      "name": "The Pig Who Cried Werewolf",
+      "releaseInfo": 2011,
+      "poster": "https://images.metahub.space/poster/medium/tt2087984/img",
+      "type": "movie",
+      "imdbRating": "5.8",
+      "genres": [
+        "Animation",
+        " Short",
+        " Comedy",
+        " Family",
+        " Fantasy",
+        " Thriller"
+      ],
+      "director": [
+        "Gary Trousdale"
+      ]
+    },
+    {
+      "id": "tt2268617",
+      "name": "Puss in Boots: The Three Diablos",
+      "releaseInfo": 2012,
+      "poster": "https://images.metahub.space/poster/medium/tt2268617/img",
+      "type": "movie",
+      "imdbRating": "6.7",
+      "genres": [
+        "Animation",
+        " Short",
+        " Adventure",
+        " Comedy",
+        " Family"
+      ],
+      "director": [
+        "Raman Hui"
+      ]
+    },
+    {
+      "id": "tt0897387",
+      "name": "Shrek the Halls",
+      "releaseInfo": 2007,
+      "poster": "https://images.metahub.space/poster/medium/tt0897387/img",
+      "type": "movie",
+      "imdbRating": "6.4",
+      "genres": [
+        "Animation",
+        " Short",
+        " Adventure",
+        " Comedy",
+        " Family",
+        " Fantasy"
+      ],
+      "director": [
+        "Gary Trousdale"
+      ]
+    },
+    {
+      "id": "tt1725156",
+      "name": "Scared Shrekless",
+      "releaseInfo": 2010,
+      "poster": "https://images.metahub.space/poster/medium/tt1725156/img",
+      "type": "movie",
+      "imdbRating": "6.7",
+      "genres": [
+        "Animation",
+        " Adventure",
+        " Comedy",
+        " Family",
+        " Fantasy",
+        " Horror"
+      ],
+      "director": [
+        "Gary Trousdale",
+        " Raman Hui"
+      ]
+    },
+    {
+      "id": "tt7042082",
+      "name": "Puss in Book: Trapped in an Epic Tale",
+      "releaseInfo": 2017,
+      "poster": "https://images.metahub.space/poster/medium/tt7042082/img",
+      "type": "movie",
+      "imdbRating": "5.3",
+      "genres": [
+        "Animation",
+        " Short",
+        " Action",
+        " Adventure",
+        " Comedy",
+        " Family",
+        " Fantasy"
+      ],
+      "director": [
+        "Roy Burdine",
+        " Johnny Castuciano"
+      ]
+    },
+    {
+      "id": "tt3070936",
+      "name": "Shrek the Musical",
+      "releaseInfo": 2013,
+      "poster": "https://images.metahub.space/poster/medium/tt3070936/img",
+      "type": "movie",
+      "imdbRating": "6.9",
+      "genres": [
+        "Comedy",
+        " Family",
+        " Fantasy",
+        " Musical"
+      ],
+      "director": [
+        "Michael John Warren"
+      ]
+    }
+  ]
+}
