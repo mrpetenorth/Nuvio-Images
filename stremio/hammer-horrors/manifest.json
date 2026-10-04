@@ -1,0 +1,19 @@
+{
+  "id": "com.mrpetenorth.hammerhorrors",
+  "version": "1.0.0",
+  "name": "Hammer Horrors",
+  "description": "Hammer Horrors restored from the original Journey catalogue",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "hammer-horrors",
+      "name": "Hammer Horrors"
+    }
+  ]
+}

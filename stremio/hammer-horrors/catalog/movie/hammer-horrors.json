@@ -1,0 +1,888 @@
+{
+  "metas": [
+    {
+      "id": "tt0049646",
+      "name": "The Quatermass Xperiment",
+      "releaseInfo": 1955,
+      "poster": "https://images.metahub.space/poster/medium/tt0049646/img",
+      "type": "movie",
+      "imdbRating": "6.6",
+      "genres": [
+        "Horror",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Val Guest"
+      ]
+    },
+    {
+      "id": "tt0049967",
+      "name": "X the Unknown",
+      "releaseInfo": 1956,
+      "poster": "https://images.metahub.space/poster/medium/tt0049967/img",
+      "type": "movie",
+      "imdbRating": "6.1",
+      "genres": [
+        "Horror",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Leslie Norman",
+        " Joseph Losey"
+      ]
+    },
+    {
+      "id": "tt0050280",
+      "name": "The Curse of Frankenstein",
+      "releaseInfo": 1957,
+      "poster": "https://images.metahub.space/poster/medium/tt0050280/img",
+      "type": "movie",
+      "imdbRating": "7.0",
+      "genres": [
+        "Horror",
+        " Sci-Fi",
+        " Thriller"
+      ],
+      "director": [
+        "Terence Fisher"
+      ]
+    },
+    {
+      "id": "tt0050095",
+      "name": "The Abominable Snowman",
+      "releaseInfo": 1957,
+      "poster": "https://images.metahub.space/poster/medium/tt0050095/img",
+      "type": "movie",
+      "imdbRating": "6.4",
+      "genres": [
+        "Adventure",
+        " Horror"
+      ],
+      "director": [
+        "Val Guest"
+      ]
+    },
+    {
+      "id": "tt0050873",
+      "name": "Quatermass 2",
+      "releaseInfo": 1957,
+      "poster": "https://images.metahub.space/poster/medium/tt0050873/img",
+      "type": "movie",
+      "imdbRating": "6.7",
+      "genres": [
+        "Sci-Fi",
+        " Horror"
+      ],
+      "director": [
+        "Val Guest"
+      ]
+    },
+    {
+      "id": "tt0051554",
+      "name": "Horror of Dracula",
+      "releaseInfo": 1958,
+      "poster": "https://images.metahub.space/poster/medium/tt0051554/img",
+      "type": "movie",
+      "imdbRating": "7.2",
+      "genres": [
+        "Drama",
+        " Horror"
+      ],
+      "director": [
+        "Terence Fisher"
+      ]
+    },
+    {
+      "id": "tt0052207",
+      "name": "The Snorkel",
+      "releaseInfo": 1958,
+      "poster": "https://images.metahub.space/poster/medium/tt0052207/img",
+      "type": "movie",
+      "imdbRating": "6.7",
+      "genres": [
+        "Crime",
+        " Horror",
+        " Mystery",
+        " Thriller"
+      ],
+      "director": [
+        "Guy Green"
+      ]
+    },
+    {
+      "id": "tt0050894",
+      "name": "The Revenge of Frankenstein",
+      "releaseInfo": 1958,
+      "poster": "https://images.metahub.space/poster/medium/tt0050894/img",
+      "type": "movie",
+      "imdbRating": "6.7",
+      "genres": [
+        "Horror",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Terence Fisher"
+      ]
+    },
+    {
+      "id": "tt0053085",
+      "name": "The Mummy",
+      "releaseInfo": 1959,
+      "poster": "https://images.metahub.space/poster/medium/tt0053085/img",
+      "type": "movie",
+      "imdbRating": "6.6",
+      "genres": [
+        "Adventure",
+        " Horror"
+      ],
+      "director": [
+        "Terence Fisher"
+      ]
+    },
+    {
+      "id": "tt0052905",
+      "name": "The Hound of the Baskervilles",
+      "releaseInfo": 1959,
+      "poster": "https://images.metahub.space/poster/medium/tt0052905/img",
+      "type": "movie",
+      "imdbRating": "6.9",
+      "genres": [
+        "Horror",
+        " Mystery"
+      ],
+      "director": [
+        "Terence Fisher"
+      ]
+    },
+    {
+      "id": "tt0053041",
+      "name": "The Man Who Could Cheat Death",
+      "releaseInfo": 1959,
+      "poster": "https://images.metahub.space/poster/medium/tt0053041/img",
+      "type": "movie",
+      "imdbRating": "6.3",
+      "genres": [
+        "Drama",
+        " Horror",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Terence Fisher"
+      ]
+    },
+    {
+      "id": "tt0054346",
+      "name": "The Stranglers of Bombay",
+      "releaseInfo": 1959,
+      "poster": "https://images.metahub.space/poster/medium/tt0054346/img",
+      "type": "movie",
+      "imdbRating": "6.2",
+      "genres": [
+        "Action",
+        " Adventure",
+        " History",
+        " Horror"
+      ],
+      "director": [
+        "Terence Fisher"
+      ]
+    },
+    {
+      "id": "tt0053677",
+      "name": "The Brides of Dracula",
+      "releaseInfo": 1960,
+      "poster": "https://images.metahub.space/poster/medium/tt0053677/img",
+      "type": "movie",
+      "imdbRating": "6.6",
+      "genres": [
+        "Horror"
+      ],
+      "director": [
+        "Terence Fisher"
+      ]
+    },
+    {
+      "id": "tt0054416",
+      "name": "The Two Faces of Dr. Jekyll",
+      "releaseInfo": 1960,
+      "poster": "https://images.metahub.space/poster/medium/tt0054416/img",
+      "type": "movie",
+      "imdbRating": "6.3",
+      "genres": [
+        "Horror"
+      ],
+      "director": [
+        "Terence Fisher"
+      ]
+    },
+    {
+      "id": "tt0054777",
+      "name": "The Curse of the Werewolf",
+      "releaseInfo": 1961,
+      "poster": "https://images.metahub.space/poster/medium/tt0054777/img",
+      "type": "movie",
+      "imdbRating": "6.5",
+      "genres": [
+        "Horror"
+      ],
+      "director": [
+        "Terence Fisher"
+      ]
+    },
+    {
+      "id": "tt0055438",
+      "name": "The Shadow of the Cat",
+      "releaseInfo": 1961,
+      "poster": "https://images.metahub.space/poster/medium/tt0055438/img",
+      "type": "movie",
+      "imdbRating": "6.3",
+      "genres": [
+        "Horror",
+        " Mystery",
+        " Thriller"
+      ],
+      "director": [
+        "John Gilling"
+      ]
+    },
+    {
+      "id": "tt0055505",
+      "name": "Scream of Fear",
+      "releaseInfo": 1961,
+      "poster": "https://images.metahub.space/poster/medium/tt0055505/img",
+      "type": "movie",
+      "imdbRating": "7.4",
+      "genres": [
+        "Horror",
+        " Thriller"
+      ],
+      "director": [
+        "Seth Holt"
+      ]
+    },
+    {
+      "id": "tt0056347",
+      "name": "The Phantom of the Opera",
+      "releaseInfo": 1962,
+      "poster": "https://images.metahub.space/poster/medium/tt0056347/img",
+      "type": "movie",
+      "imdbRating": "6.4",
+      "genres": [
+        "Drama",
+        " Horror",
+        " Music",
+        " Mystery",
+        " Romance",
+        " Thriller"
+      ],
+      "director": [
+        "Terence Fisher"
+      ]
+    },
+    {
+      "id": "tt0057226",
+      "name": "The Kiss of the Vampire",
+      "releaseInfo": 1963,
+      "poster": "https://images.metahub.space/poster/medium/tt0057226/img",
+      "type": "movie",
+      "imdbRating": "6.3",
+      "genres": [
+        "Horror"
+      ],
+      "director": [
+        "Don Sharp"
+      ]
+    },
+    {
+      "id": "tt0056219",
+      "name": "Maniac",
+      "releaseInfo": 1963,
+      "poster": "https://images.metahub.space/poster/medium/tt0056219/img",
+      "type": "movie",
+      "imdbRating": "5.9",
+      "genres": [
+        "Crime",
+        " Horror",
+        " Mystery",
+        " Romance",
+        " Thriller"
+      ],
+      "director": [
+        "Michael Carreras"
+      ]
+    },
+    {
+      "id": "tt0057401",
+      "name": "Paranoiac",
+      "releaseInfo": 1963,
+      "poster": "https://images.metahub.space/poster/medium/tt0057401/img",
+      "type": "movie",
+      "imdbRating": "6.7",
+      "genres": [
+        "Drama",
+        " Horror",
+        " Mystery",
+        " Thriller"
+      ],
+      "director": [
+        "Freddie Francis"
+      ]
+    },
+    {
+      "id": "tt0058073",
+      "name": "The Evil of Frankenstein",
+      "releaseInfo": 1964,
+      "poster": "https://images.metahub.space/poster/medium/tt0058073/img",
+      "type": "movie",
+      "imdbRating": "6.0",
+      "genres": [
+        "Horror"
+      ],
+      "director": [
+        "Freddie Francis"
+      ]
+    },
+    {
+      "id": "tt0057986",
+      "name": "The Curse of the Mummy's Tomb",
+      "releaseInfo": 1964,
+      "poster": "https://images.metahub.space/poster/medium/tt0057986/img",
+      "type": "movie",
+      "imdbRating": "5.6",
+      "genres": [
+        "Drama",
+        " Fantasy",
+        " Horror",
+        " Mystery",
+        " Thriller"
+      ],
+      "director": [
+        "Michael Carreras"
+      ]
+    },
+    {
+      "id": "tt0058155",
+      "name": "The Gorgon",
+      "releaseInfo": 1964,
+      "poster": "https://images.metahub.space/poster/medium/tt0058155/img",
+      "type": "movie",
+      "imdbRating": "6.4",
+      "genres": [
+        "Horror"
+      ],
+      "director": [
+        "Terence Fisher"
+      ]
+    },
+    {
+      "id": "tt0058405",
+      "name": "Nightmare",
+      "releaseInfo": 1964,
+      "poster": "https://images.metahub.space/poster/medium/tt0058405/img",
+      "type": "movie",
+      "imdbRating": "6.7",
+      "genres": [
+        "Mystery",
+        " Thriller"
+      ],
+      "director": [
+        "Freddie Francis"
+      ]
+    },
+    {
+      "id": "tt0058216",
+      "name": "Hysteria",
+      "releaseInfo": 1965,
+      "poster": "https://images.metahub.space/poster/medium/tt0058216/img",
+      "type": "movie",
+      "imdbRating": "6.0",
+      "genres": [
+        "Crime",
+        " Mystery",
+        " Thriller"
+      ],
+      "director": [
+        "Freddie Francis"
+      ]
+    },
+    {
+      "id": "tt0059106",
+      "name": "Die! Die! My Darling!",
+      "releaseInfo": 1965,
+      "poster": "https://images.metahub.space/poster/medium/tt0059106/img",
+      "type": "movie",
+      "imdbRating": "6.3",
+      "genres": [
+        "Horror",
+        " Thriller"
+      ],
+      "director": [
+        "Silvio Narizzano"
+      ]
+    },
+    {
+      "id": "tt0059496",
+      "name": "The Nanny",
+      "releaseInfo": 1965,
+      "poster": "https://images.metahub.space/poster/medium/tt0059496/img",
+      "type": "movie",
+      "imdbRating": "7.1",
+      "genres": [
+        "Mystery",
+        " Thriller"
+      ],
+      "director": [
+        "Seth Holt"
+      ]
+    },
+    {
+      "id": "tt0059127",
+      "name": "Dracula: Prince of Darkness",
+      "releaseInfo": 1966,
+      "poster": "https://images.metahub.space/poster/medium/tt0059127/img",
+      "type": "movie",
+      "imdbRating": "6.6",
+      "genres": [
+        "Horror"
+      ],
+      "director": [
+        "Terence Fisher"
+      ]
+    },
+    {
+      "id": "tt0060307",
+      "name": "The Witches",
+      "releaseInfo": 1966,
+      "poster": "https://images.metahub.space/poster/medium/tt0060307/img",
+      "type": "movie",
+      "imdbRating": "5.8",
+      "genres": [
+        "Horror"
+      ],
+      "director": [
+        "Cyril Frankel"
+      ]
+    },
+    {
+      "id": "tt0060841",
+      "name": "The Plague of the Zombies",
+      "releaseInfo": 1966,
+      "poster": "https://images.metahub.space/poster/medium/tt0060841/img",
+      "type": "movie",
+      "imdbRating": "6.6",
+      "genres": [
+        "Horror"
+      ],
+      "director": [
+        "John Gilling"
+      ]
+    },
+    {
+      "id": "tt0060893",
+      "name": "The Reptile",
+      "releaseInfo": 1966,
+      "poster": "https://images.metahub.space/poster/medium/tt0060893/img",
+      "type": "movie",
+      "imdbRating": "6.1",
+      "genres": [
+        "Horror"
+      ],
+      "director": [
+        "John Gilling"
+      ]
+    },
+    {
+      "id": "tt0061683",
+      "name": "Frankenstein Created Woman",
+      "releaseInfo": 1967,
+      "poster": "https://images.metahub.space/poster/medium/tt0061683/img",
+      "type": "movie",
+      "imdbRating": "6.5",
+      "genres": [
+        "Horror",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Terence Fisher"
+      ]
+    },
+    {
+      "id": "tt0062168",
+      "name": "Quatermass and the Pit",
+      "releaseInfo": 1967,
+      "poster": "https://images.metahub.space/poster/medium/tt0062168/img",
+      "type": "movie",
+      "imdbRating": "7.0",
+      "genres": [
+        "Horror",
+        " Mystery",
+        " Sci-Fi",
+        " Thriller"
+      ],
+      "director": [
+        "Roy Ward Baker"
+      ]
+    },
+    {
+      "id": "tt0062006",
+      "name": "The Mummy's Shroud",
+      "releaseInfo": 1967,
+      "poster": "https://images.metahub.space/poster/medium/tt0062006/img",
+      "type": "movie",
+      "imdbRating": "5.5",
+      "genres": [
+        "Horror"
+      ],
+      "director": [
+        "John Gilling"
+      ]
+    },
+    {
+      "id": "tt0062909",
+      "name": "Dracula Has Risen from the Grave",
+      "releaseInfo": 1968,
+      "poster": "https://images.metahub.space/poster/medium/tt0062909/img",
+      "type": "movie",
+      "imdbRating": "6.5",
+      "genres": [
+        "Drama",
+        " Fantasy",
+        " Horror",
+        " Romance"
+      ],
+      "director": [
+        "Freddie Francis"
+      ]
+    },
+    {
+      "id": "tt0062885",
+      "name": "The Devil Rides Out",
+      "releaseInfo": 1968,
+      "poster": "https://images.metahub.space/poster/medium/tt0062885/img",
+      "type": "movie",
+      "imdbRating": "6.9",
+      "genres": [
+        "Horror"
+      ],
+      "director": [
+        "Terence Fisher"
+      ]
+    },
+    {
+      "id": "tt0065738",
+      "name": "Frankenstein Must Be Destroyed",
+      "releaseInfo": 1969,
+      "poster": "https://images.metahub.space/poster/medium/tt0065738/img",
+      "type": "movie",
+      "imdbRating": "6.7",
+      "genres": [
+        "Drama",
+        " Horror",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Terence Fisher"
+      ]
+    },
+    {
+      "id": "tt0065851",
+      "name": "The Horror of Frankenstein",
+      "releaseInfo": 1970,
+      "poster": "https://images.metahub.space/poster/medium/tt0065851/img",
+      "type": "movie",
+      "imdbRating": "5.8",
+      "genres": [
+        "Comedy",
+        " Horror",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Jimmy Sangster"
+      ]
+    },
+    {
+      "id": "tt0065073",
+      "name": "Taste the Blood of Dracula",
+      "releaseInfo": 1970,
+      "poster": "https://images.metahub.space/poster/medium/tt0065073/img",
+      "type": "movie",
+      "imdbRating": "6.3",
+      "genres": [
+        "Drama",
+        " Fantasy",
+        " Horror",
+        " Romance",
+        " Thriller"
+      ],
+      "director": [
+        "Peter Sasdy"
+      ]
+    },
+    {
+      "id": "tt0067713",
+      "name": "Scars of Dracula",
+      "releaseInfo": 1970,
+      "poster": "https://images.metahub.space/poster/medium/tt0067713/img",
+      "type": "movie",
+      "imdbRating": "6.1",
+      "genres": [
+        "Horror"
+      ],
+      "director": [
+        "Roy Ward Baker"
+      ]
+    },
+    {
+      "id": "tt0066518",
+      "name": "The Vampire Lovers",
+      "releaseInfo": 1970,
+      "poster": "https://images.metahub.space/poster/medium/tt0066518/img",
+      "type": "movie",
+      "imdbRating": "6.4",
+      "genres": [
+        "Horror"
+      ],
+      "director": [
+        "Roy Ward Baker"
+      ]
+    },
+    {
+      "id": "tt0064188",
+      "name": "Crescendo",
+      "releaseInfo": 1970,
+      "poster": "https://images.metahub.space/poster/medium/tt0064188/img",
+      "type": "movie",
+      "imdbRating": "5.2",
+      "genres": [
+        "Mystery",
+        " Thriller"
+      ],
+      "director": [
+        "Alan Gibson"
+      ]
+    },
+    {
+      "id": "tt0065580",
+      "name": "Countess Dracula",
+      "releaseInfo": 1971,
+      "poster": "https://images.metahub.space/poster/medium/tt0065580/img",
+      "type": "movie",
+      "imdbRating": "5.9",
+      "genres": [
+        "Horror"
+      ],
+      "director": [
+        "Peter Sasdy"
+      ]
+    },
+    {
+      "id": "tt0068290",
+      "name": "Blood from the Mummy's Tomb",
+      "releaseInfo": 1971,
+      "poster": "https://images.metahub.space/poster/medium/tt0068290/img",
+      "type": "movie",
+      "imdbRating": "5.6",
+      "genres": [
+        "Horror"
+      ],
+      "director": [
+        "Seth Holt",
+        " Michael Carreras"
+      ]
+    },
+    {
+      "id": "tt0068502",
+      "name": "Dr Jekyll & Sister Hyde",
+      "releaseInfo": 1971,
+      "poster": "https://images.metahub.space/poster/medium/tt0068502/img",
+      "type": "movie",
+      "imdbRating": "6.6",
+      "genres": [
+        "Horror",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Roy Ward Baker"
+      ]
+    },
+    {
+      "id": "tt0067367",
+      "name": "Lust for a Vampire",
+      "releaseInfo": 1971,
+      "poster": "https://images.metahub.space/poster/medium/tt0067367/img",
+      "type": "movie",
+      "imdbRating": "5.7",
+      "genres": [
+        "Horror"
+      ],
+      "director": [
+        "Jimmy Sangster"
+      ]
+    },
+    {
+      "id": "tt0069427",
+      "name": "Twins of Evil",
+      "releaseInfo": 1971,
+      "poster": "https://images.metahub.space/poster/medium/tt0069427/img",
+      "type": "movie",
+      "imdbRating": "6.6",
+      "genres": [
+        "Drama",
+        " Horror"
+      ],
+      "director": [
+        "John Hough"
+      ]
+    },
+    {
+      "id": "tt0068505",
+      "name": "Dracula A.D. 1972",
+      "releaseInfo": 1972,
+      "poster": "https://images.metahub.space/poster/medium/tt0068505/img",
+      "type": "movie",
+      "imdbRating": "5.9",
+      "genres": [
+        "Horror"
+      ],
+      "director": [
+        "Alan Gibson"
+      ]
+    },
+    {
+      "id": "tt0069318",
+      "name": "Straight on Till Morning",
+      "releaseInfo": 1972,
+      "poster": "https://images.metahub.space/poster/medium/tt0069318/img",
+      "type": "movie",
+      "imdbRating": "5.7",
+      "genres": [
+        "Thriller"
+      ],
+      "director": [
+        "Peter Collinson"
+      ]
+    },
+    {
+      "id": "tt0066982",
+      "name": "Demons of the Mind",
+      "releaseInfo": 1972,
+      "poster": "https://images.metahub.space/poster/medium/tt0066982/img",
+      "type": "movie",
+      "imdbRating": "5.3",
+      "genres": [
+        "Horror",
+        " Thriller"
+      ],
+      "director": [
+        "Peter Sykes"
+      ]
+    },
+    {
+      "id": "tt0068577",
+      "name": "Fear in the Night",
+      "releaseInfo": 1972,
+      "poster": "https://images.metahub.space/poster/medium/tt0068577/img",
+      "type": "movie",
+      "imdbRating": "5.9",
+      "genres": [
+        "Horror",
+        " Mystery",
+        " Thriller"
+      ],
+      "director": [
+        "Jimmy Sangster"
+      ]
+    },
+    {
+      "id": "tt0067924",
+      "name": "Vampire Circus",
+      "releaseInfo": 1972,
+      "poster": "https://images.metahub.space/poster/medium/tt0067924/img",
+      "type": "movie",
+      "imdbRating": "6.3",
+      "genres": [
+        "Horror"
+      ],
+      "director": [
+        "Robert Young"
+      ]
+    },
+    {
+      "id": "tt0070634",
+      "name": "The Satanic Rites of Dracula",
+      "releaseInfo": 1973,
+      "poster": "https://images.metahub.space/poster/medium/tt0070634/img",
+      "type": "movie",
+      "imdbRating": "5.5",
+      "genres": [
+        "Drama",
+        " Horror"
+      ],
+      "director": [
+        "Alan Gibson"
+      ]
+    },
+    {
+      "id": "tt0071519",
+      "name": "Frankenstein and the Monster from Hell",
+      "releaseInfo": 1974,
+      "poster": "https://images.metahub.space/poster/medium/tt0071519/img",
+      "type": "movie",
+      "imdbRating": "6.2",
+      "genres": [
+        "Horror",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Terence Fisher"
+      ]
+    },
+    {
+      "id": "tt0071276",
+      "name": "Captain Kronos: Vampire Hunter",
+      "releaseInfo": 1974,
+      "poster": "https://images.metahub.space/poster/medium/tt0071276/img",
+      "type": "movie",
+      "imdbRating": "6.4",
+      "genres": [
+        "Adventure",
+        " Horror",
+        " Mystery"
+      ],
+      "director": [
+        "Brian Clemens"
+      ]
+    },
+    {
+      "id": "tt0070297",
+      "name": "The Legend of the 7 Golden Vampires",
+      "releaseInfo": 1974,
+      "poster": "https://images.metahub.space/poster/medium/tt0070297/img",
+      "type": "movie",
+      "imdbRating": "5.8",
+      "genres": [
+        "Action",
+        " Horror"
+      ],
+      "director": [
+        "Roy Ward Baker",
+        " Cheh Chang"
+      ]
+    },
+    {
+      "id": "tt0075334",
+      "name": "To the Devil a Daughter",
+      "releaseInfo": 1976,
+      "poster": "https://images.metahub.space/poster/medium/tt0075334/img",
+      "type": "movie",
+      "imdbRating": "5.8",
+      "genres": [
+        "Horror"
+      ],
+      "director": [
+        "Peter Sykes",
+        " Don Sharp"
+      ]
+    }
+  ]
+}
