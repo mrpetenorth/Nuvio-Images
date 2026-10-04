@@ -1,0 +1,19 @@
+{
+  "id": "com.mrpetenorth.familyfavouriteshows",
+  "version": "1.0.0",
+  "name": "Family Favourite Shows",
+  "description": "Family Favourite Shows restored from TMDB list 8584542",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "series"
+  ],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "family-favourite-shows",
+      "name": "Family Favourite Shows"
+    }
+  ]
+}
