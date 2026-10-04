@@ -1,0 +1,19 @@
+{
+  "id": "com.mrpetenorth.indianajones",
+  "version": "1.0.0",
+  "name": "Indiana Jones",
+  "description": "Indiana Jones theatrical films separated from the original Journey catalogue",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "indiana-jones",
+      "name": "Indiana Jones"
+    }
+  ]
+}

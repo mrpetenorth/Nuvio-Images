@@ -1,0 +1,19 @@
+{
+  "id": "com.mrpetenorth.youngindianajones",
+  "version": "1.0.0",
+  "name": "Young Indiana Jones",
+  "description": "Young Indiana Jones feature-length adventures restored from the original Journey catalogue",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "young-indiana-jones",
+      "name": "Young Indiana Jones"
+    }
+  ]
+}
