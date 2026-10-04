@@ -1,0 +1,505 @@
+{
+  "metas": [
+    {
+      "id": "tt0110213",
+      "name": "The Jungle Book",
+      "releaseInfo": 1994,
+      "poster": "https://images.metahub.space/poster/medium/tt0110213/img",
+      "type": "movie",
+      "imdbRating": "6.1",
+      "genres": [
+        "Adventure",
+        " Family",
+        " Fantasy",
+        " Romance"
+      ],
+      "director": [
+        "Stephen Sommers"
+      ]
+    },
+    {
+      "id": "tt0115433",
+      "name": "101 Dalmatians",
+      "releaseInfo": 1996,
+      "poster": "https://images.metahub.space/poster/medium/tt0115433/img",
+      "type": "movie",
+      "imdbRating": "5.8",
+      "genres": [
+        "Adventure",
+        " Comedy",
+        " Crime",
+        " Family"
+      ],
+      "director": [
+        "Stephen Herek"
+      ]
+    },
+    {
+      "id": "tt0211181",
+      "name": "102 Dalmatians",
+      "releaseInfo": 2000,
+      "poster": "https://images.metahub.space/poster/medium/tt0211181/img",
+      "type": "movie",
+      "imdbRating": "4.9",
+      "genres": [
+        "Adventure",
+        " Comedy",
+        " Family"
+      ],
+      "director": [
+        "Kevin Lima"
+      ]
+    },
+    {
+      "id": "tt1014759",
+      "name": "Alice in Wonderland",
+      "releaseInfo": 2010,
+      "poster": "https://images.metahub.space/poster/medium/tt1014759/img",
+      "type": "movie",
+      "imdbRating": "6.4",
+      "genres": [
+        "Adventure",
+        " Family",
+        " Fantasy",
+        " Mystery"
+      ],
+      "director": [
+        "Tim Burton"
+      ]
+    },
+    {
+      "id": "tt0963966",
+      "name": "The Sorcerer's Apprentice",
+      "releaseInfo": 2010,
+      "poster": "https://images.metahub.space/poster/medium/tt0963966/img",
+      "type": "movie",
+      "imdbRating": "6.1",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Family",
+        " Fantasy"
+      ],
+      "director": [
+        "Jon Turteltaub"
+      ]
+    },
+    {
+      "id": "tt1587310",
+      "name": "Maleficent",
+      "releaseInfo": 2014,
+      "poster": "https://images.metahub.space/poster/medium/tt1587310/img",
+      "type": "movie",
+      "imdbRating": "6.9",
+      "genres": [
+        "Adventure",
+        " Drama",
+        " Family",
+        " Fantasy",
+        " Romance"
+      ],
+      "director": [
+        "Robert Stromberg"
+      ]
+    },
+    {
+      "id": "tt1661199",
+      "name": "Cinderella",
+      "releaseInfo": 2015,
+      "poster": "https://images.metahub.space/poster/medium/tt1661199/img",
+      "type": "movie",
+      "imdbRating": "6.9",
+      "genres": [
+        "Adventure",
+        " Drama",
+        " Family",
+        " Fantasy",
+        " Romance"
+      ],
+      "director": [
+        "Kenneth Branagh"
+      ]
+    },
+    {
+      "id": "tt3040964",
+      "name": "The Jungle Book",
+      "releaseInfo": 2016,
+      "poster": "https://images.metahub.space/poster/medium/tt3040964/img",
+      "type": "movie",
+      "imdbRating": "7.3",
+      "genres": [
+        "Animation",
+        " Action",
+        " Adventure",
+        " Drama",
+        " Family",
+        " Fantasy",
+        " Musical"
+      ],
+      "director": [
+        "Jon Favreau"
+      ]
+    },
+    {
+      "id": "tt2788732",
+      "name": "Pete's Dragon",
+      "releaseInfo": 2016,
+      "poster": "https://images.metahub.space/poster/medium/tt2788732/img",
+      "type": "movie",
+      "imdbRating": "6.7",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Comedy",
+        " Drama",
+        " Family",
+        " Fantasy"
+      ],
+      "director": [
+        "David Lowery"
+      ]
+    },
+    {
+      "id": "tt2567026",
+      "name": "Alice Through the Looking Glass",
+      "releaseInfo": 2016,
+      "poster": "https://images.metahub.space/poster/medium/tt2567026/img",
+      "type": "movie",
+      "imdbRating": "6.2",
+      "genres": [
+        "Adventure",
+        " Family",
+        " Fantasy",
+        " Mystery"
+      ],
+      "director": [
+        "James Bobin"
+      ]
+    },
+    {
+      "id": "tt2771200",
+      "name": "Beauty and the Beast",
+      "releaseInfo": 2017,
+      "poster": "https://images.metahub.space/poster/medium/tt2771200/img",
+      "type": "movie",
+      "imdbRating": "7.1",
+      "genres": [
+        "Adventure",
+        " Family",
+        " Fantasy",
+        " Musical",
+        " Romance"
+      ],
+      "director": [
+        "Bill Condon"
+      ]
+    },
+    {
+      "id": "tt4575576",
+      "name": "Christopher Robin",
+      "releaseInfo": 2018,
+      "poster": "https://images.metahub.space/poster/medium/tt4575576/img",
+      "type": "movie",
+      "imdbRating": "7.2",
+      "genres": [
+        "Adventure",
+        " Comedy",
+        " Drama",
+        " Family",
+        " Fantasy",
+        " Musical"
+      ],
+      "director": [
+        "Marc Forster"
+      ]
+    },
+    {
+      "id": "tt3861390",
+      "name": "Dumbo",
+      "releaseInfo": 2019,
+      "poster": "https://images.metahub.space/poster/medium/tt3861390/img",
+      "type": "movie",
+      "imdbRating": "6.2",
+      "genres": [
+        "Adventure",
+        " Family",
+        " Fantasy"
+      ],
+      "director": [
+        "Tim Burton"
+      ]
+    },
+    {
+      "id": "tt6139732",
+      "name": "Aladdin",
+      "releaseInfo": 2019,
+      "poster": "https://images.metahub.space/poster/medium/tt6139732/img",
+      "type": "movie",
+      "imdbRating": "6.9",
+      "genres": [
+        "Adventure",
+        " Comedy",
+        " Family",
+        " Fantasy",
+        " Musical",
+        " Romance"
+      ],
+      "director": [
+        "Guy Ritchie"
+      ]
+    },
+    {
+      "id": "tt6105098",
+      "name": "The Lion King",
+      "releaseInfo": 2019,
+      "poster": "https://images.metahub.space/poster/medium/tt6105098/img",
+      "type": "movie",
+      "imdbRating": "6.8",
+      "genres": [
+        "Animation",
+        " Adventure",
+        " Drama",
+        " Family",
+        " Musical"
+      ],
+      "director": [
+        "Jon Favreau"
+      ]
+    },
+    {
+      "id": "tt4777008",
+      "name": "Maleficent: Mistress of Evil",
+      "releaseInfo": 2019,
+      "poster": "https://images.metahub.space/poster/medium/tt4777008/img",
+      "type": "movie",
+      "imdbRating": "6.6",
+      "genres": [
+        "Adventure",
+        " Drama",
+        " Family",
+        " Fantasy",
+        " Romance"
+      ],
+      "director": [
+        "Joachim Rønning"
+      ]
+    },
+    {
+      "id": "tt8096832",
+      "name": "Lady and the Tramp",
+      "releaseInfo": 2019,
+      "poster": "https://images.metahub.space/poster/medium/tt8096832/img",
+      "type": "movie",
+      "imdbRating": "6.2",
+      "genres": [
+        "Adventure",
+        " Comedy",
+        " Family",
+        " Musical",
+        " Romance"
+      ],
+      "director": [
+        "Charlie Bean"
+      ]
+    },
+    {
+      "id": "tt4566758",
+      "name": "Mulan",
+      "releaseInfo": 2020,
+      "poster": "https://images.metahub.space/poster/medium/tt4566758/img",
+      "type": "movie",
+      "imdbRating": "5.8",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Drama",
+        " Fantasy"
+      ],
+      "director": [
+        "Niki Caro"
+      ]
+    },
+    {
+      "id": "tt3228774",
+      "name": "Cruella",
+      "releaseInfo": 2021,
+      "poster": "https://images.metahub.space/poster/medium/tt3228774/img",
+      "type": "movie",
+      "imdbRating": "7.3",
+      "genres": [
+        "Adventure",
+        " Comedy",
+        " Crime",
+        " Drama"
+      ],
+      "director": [
+        "Craig Gillespie"
+      ]
+    },
+    {
+      "id": "tt4593060",
+      "name": "Pinocchio",
+      "releaseInfo": 2022,
+      "poster": "https://images.metahub.space/poster/medium/tt4593060/img",
+      "type": "movie",
+      "imdbRating": "5.1",
+      "genres": [
+        "Adventure",
+        " Comedy",
+        " Drama",
+        " Family",
+        " Fantasy",
+        " Musical"
+      ],
+      "director": [
+        "Robert Zemeckis"
+      ]
+    },
+    {
+      "id": "tt5635026",
+      "name": "Peter Pan & Wendy",
+      "releaseInfo": 2023,
+      "poster": "https://images.metahub.space/poster/medium/tt5635026/img",
+      "type": "movie",
+      "imdbRating": "4.4",
+      "genres": [
+        "Adventure",
+        " Family",
+        " Fantasy"
+      ],
+      "director": [
+        "David Lowery"
+      ]
+    },
+    {
+      "id": "tt5971474",
+      "name": "The Little Mermaid",
+      "releaseInfo": 2023,
+      "poster": "https://images.metahub.space/poster/medium/tt5971474/img",
+      "type": "movie",
+      "imdbRating": "7.2",
+      "genres": [
+        "Adventure",
+        " Family",
+        " Fantasy",
+        " Musical",
+        " Romance"
+      ],
+      "director": [
+        "Rob Marshall"
+      ]
+    },
+    {
+      "id": "tt13186482",
+      "name": "Mufasa: The Lion King",
+      "releaseInfo": 2024,
+      "poster": "https://images.metahub.space/poster/medium/tt13186482/img",
+      "type": "movie",
+      "imdbRating": "6.6",
+      "genres": [
+        "Animation",
+        " Adventure",
+        " Drama",
+        " Family",
+        " Musical"
+      ],
+      "director": [
+        "Barry Jenkins"
+      ]
+    },
+    {
+      "id": "tt6208148",
+      "name": "Snow White",
+      "releaseInfo": 2025,
+      "poster": "https://images.metahub.space/poster/medium/tt6208148/img",
+      "type": "movie",
+      "imdbRating": "2.2",
+      "genres": [
+        "Adventure",
+        " Family",
+        " Fantasy",
+        " Musical",
+        " Romance"
+      ],
+      "director": [
+        "Marc Webb"
+      ]
+    },
+    {
+      "id": "tt11655566",
+      "name": "Lilo & Stitch",
+      "releaseInfo": 2025,
+      "poster": "https://images.metahub.space/poster/medium/tt11655566/img",
+      "type": "movie",
+      "imdbRating": "6.7",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Comedy",
+        " Drama",
+        " Family",
+        " Fantasy",
+        " Sci-Fi"
+      ],
+      "director": [
+        "Dean Fleischer Camp"
+      ]
+    },
+    {
+      "id": "tt27419466",
+      "name": "Moana",
+      "releaseInfo": 2026,
+      "poster": "https://images.metahub.space/poster/medium/tt27419466/img",
+      "type": "movie",
+      "imdbRating": "",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Comedy",
+        " Family",
+        " Fantasy",
+        " Musical"
+      ],
+      "director": [
+        "Thomas Kail"
+      ]
+    },
+    {
+      "id": "tt21068738",
+      "name": "Hercules",
+      "releaseInfo": 0,
+      "poster": "https://images.metahub.space/poster/medium/tt21068738/img",
+      "type": "movie",
+      "imdbRating": "",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Comedy",
+        " Family",
+        " Fantasy"
+      ],
+      "director": [
+        ""
+      ]
+    },
+    {
+      "id": "tt10298848",
+      "name": "Bambi",
+      "releaseInfo": 0,
+      "poster": "https://images.metahub.space/poster/medium/tt10298848/img",
+      "type": "movie",
+      "imdbRating": "",
+      "genres": [
+        "Animation",
+        " Drama",
+        " Family",
+        " Fantasy",
+        " Horror",
+        " Romance"
+      ],
+      "director": [
+        ""
+      ]
+    }
+  ]
+}
