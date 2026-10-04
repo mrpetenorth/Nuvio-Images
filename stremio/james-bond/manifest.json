@@ -1,0 +1,19 @@
+{
+  "id": "com.mrpetenorth.jamesbond",
+  "version": "1.0.0",
+  "name": "James Bond",
+  "description": "James Bond restored from the original Journey catalogue",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "james-bond",
+      "name": "James Bond"
+    }
+  ]
+}
