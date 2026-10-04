@@ -1,0 +1,188 @@
+{
+  "metas": [
+    {
+      "id": "tt3183660",
+      "name": "Fantastic Beasts and Where to Find Them",
+      "releaseInfo": 2016,
+      "poster": "https://images.metahub.space/poster/medium/tt3183660/img",
+      "type": "movie",
+      "imdbRating": "7.2",
+      "genres": [
+        "Adventure",
+        " Family",
+        " Fantasy"
+      ],
+      "director": [
+        "David Yates"
+      ]
+    },
+    {
+      "id": "tt4123430",
+      "name": "Fantastic Beasts: The Crimes of Grindelwald",
+      "releaseInfo": 2018,
+      "poster": "https://images.metahub.space/poster/medium/tt4123430/img",
+      "type": "movie",
+      "imdbRating": "6.5",
+      "genres": [
+        "Adventure",
+        " Family",
+        " Fantasy"
+      ],
+      "director": [
+        "David Yates"
+      ]
+    },
+    {
+      "id": "tt4123432",
+      "name": "Fantastic Beasts: The Secrets of Dumbledore",
+      "releaseInfo": 2022,
+      "poster": "https://images.metahub.space/poster/medium/tt4123432/img",
+      "type": "movie",
+      "imdbRating": "6.2",
+      "genres": [
+        "Adventure",
+        " Fantasy"
+      ],
+      "director": [
+        "David Yates"
+      ]
+    },
+    {
+      "id": "tt0241527",
+      "name": "Harry Potter and the Sorcerer's Stone",
+      "releaseInfo": 2001,
+      "poster": "https://images.metahub.space/poster/medium/tt0241527/img",
+      "type": "movie",
+      "imdbRating": "7.7",
+      "genres": [
+        "Adventure",
+        " Family",
+        " Fantasy"
+      ],
+      "director": [
+        "Chris Columbus"
+      ]
+    },
+    {
+      "id": "tt0295297",
+      "name": "Harry Potter and the Chamber of Secrets",
+      "releaseInfo": 2002,
+      "poster": "https://images.metahub.space/poster/medium/tt0295297/img",
+      "type": "movie",
+      "imdbRating": "7.5",
+      "genres": [
+        "Adventure",
+        " Family",
+        " Fantasy",
+        " Mystery"
+      ],
+      "director": [
+        "Chris Columbus"
+      ]
+    },
+    {
+      "id": "tt0304141",
+      "name": "Harry Potter and the Prisoner of Azkaban",
+      "releaseInfo": 2004,
+      "poster": "https://images.metahub.space/poster/medium/tt0304141/img",
+      "type": "movie",
+      "imdbRating": "7.9",
+      "genres": [
+        "Adventure",
+        " Family",
+        " Fantasy",
+        " Mystery"
+      ],
+      "director": [
+        "Alfonso Cuarón"
+      ]
+    },
+    {
+      "id": "tt0330373",
+      "name": "Harry Potter and the Goblet of Fire",
+      "releaseInfo": 2005,
+      "poster": "https://images.metahub.space/poster/medium/tt0330373/img",
+      "type": "movie",
+      "imdbRating": "7.7",
+      "genres": [
+        "Adventure",
+        " Family",
+        " Fantasy",
+        " Mystery"
+      ],
+      "director": [
+        "Mike Newell"
+      ]
+    },
+    {
+      "id": "tt0373889",
+      "name": "Harry Potter and the Order of the Phoenix",
+      "releaseInfo": 2007,
+      "poster": "https://images.metahub.space/poster/medium/tt0373889/img",
+      "type": "movie",
+      "imdbRating": "7.5",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Family",
+        " Fantasy",
+        " Mystery"
+      ],
+      "director": [
+        "David Yates"
+      ]
+    },
+    {
+      "id": "tt0417741",
+      "name": "Harry Potter and the Half-Blood Prince",
+      "releaseInfo": 2009,
+      "poster": "https://images.metahub.space/poster/medium/tt0417741/img",
+      "type": "movie",
+      "imdbRating": "7.6",
+      "genres": [
+        "Action",
+        " Adventure",
+        " Family",
+        " Fantasy",
+        " Mystery"
+      ],
+      "director": [
+        "David Yates"
+      ]
+    },
+    {
+      "id": "tt0926084",
+      "name": "Harry Potter and the Deathly Hallows: Part 1",
+      "releaseInfo": 2010,
+      "poster": "https://images.metahub.space/poster/medium/tt0926084/img",
+      "type": "movie",
+      "imdbRating": "7.7",
+      "genres": [
+        "Adventure",
+        " Family",
+        " Fantasy",
+        " Mystery"
+      ],
+      "director": [
+        "David Yates"
+      ]
+    },
+    {
+      "id": "tt1201607",
+      "name": "Harry Potter and the Deathly Hallows: Part 2",
+      "releaseInfo": 2011,
+      "poster": "https://images.metahub.space/poster/medium/tt1201607/img",
+      "type": "movie",
+      "imdbRating": "8.1",
+      "genres": [
+        "Adventure",
+        " Family",
+        " Fantasy",
+        " Mystery"
+      ],
+      "director": [
+        "David Yates"
+      ]
+    }
+  ]
+}
