@@ -1,0 +1,88 @@
+{
+  "metas": [
+    {
+      "id": "tt0120915",
+      "name": "Star Wars: Episode I - The Phantom Menace",
+      "releaseInfo": 1999,
+      "poster": "https://images.metahub.space/poster/medium/tt0120915/img",
+      "type": "movie"
+    },
+    {
+      "id": "tt0121765",
+      "name": "Star Wars: Episode II - Attack of the Clones",
+      "releaseInfo": 2002,
+      "poster": "https://images.metahub.space/poster/medium/tt0121765/img",
+      "type": "movie"
+    },
+    {
+      "id": "tt0121766",
+      "name": "Star Wars: Episode III - Revenge of the Sith",
+      "releaseInfo": 2005,
+      "poster": "https://images.metahub.space/poster/medium/tt0121766/img",
+      "type": "movie"
+    },
+    {
+      "id": "tt0076759",
+      "name": "Star Wars: Episode IV - A New Hope",
+      "releaseInfo": 1977,
+      "poster": "https://images.metahub.space/poster/medium/tt0076759/img",
+      "type": "movie"
+    },
+    {
+      "id": "tt0080684",
+      "name": "Star Wars: Episode V - The Empire Strikes Back",
+      "releaseInfo": 1980,
+      "poster": "https://images.metahub.space/poster/medium/tt0080684/img",
+      "type": "movie"
+    },
+    {
+      "id": "tt0086190",
+      "name": "Star Wars: Episode VI - Return of the Jedi",
+      "releaseInfo": 1983,
+      "poster": "https://images.metahub.space/poster/medium/tt0086190/img",
+      "type": "movie"
+    },
+    {
+      "id": "tt2488496",
+      "name": "Star Wars: Episode VII - The Force Awakens",
+      "releaseInfo": 2015,
+      "poster": "https://images.metahub.space/poster/medium/tt2488496/img",
+      "type": "movie"
+    },
+    {
+      "id": "tt2527336",
+      "name": "Star Wars: Episode VIII - The Last Jedi",
+      "releaseInfo": 2017,
+      "poster": "https://images.metahub.space/poster/medium/tt2527336/img",
+      "type": "movie"
+    },
+    {
+      "id": "tt2527338",
+      "name": "Star Wars: Episode IX - The Rise of Skywalker",
+      "releaseInfo": 2019,
+      "poster": "https://images.metahub.space/poster/medium/tt2527338/img",
+      "type": "movie"
+    },
+    {
+      "id": "tt3748528",
+      "name": "Rogue One: A Star Wars Story",
+      "releaseInfo": 2016,
+      "poster": "https://images.metahub.space/poster/medium/tt3748528/img",
+      "type": "movie"
+    },
+    {
+      "id": "tt3778644",
+      "name": "Solo: A Star Wars Story",
+      "releaseInfo": 2018,
+      "poster": "https://images.metahub.space/poster/medium/tt3778644/img",
+      "type": "movie"
+    },
+    {
+      "id": "tt1185834",
+      "name": "Star Wars: The Clone Wars",
+      "releaseInfo": 2008,
+      "poster": "https://images.metahub.space/poster/medium/tt1185834/img",
+      "type": "movie"
+    }
+  ]
+}

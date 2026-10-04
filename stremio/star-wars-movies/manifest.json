@@ -1,0 +1,19 @@
+{
+  "id": "com.mrpetenorth.starwarsmovies",
+  "version": "1.0.0",
+  "name": "Star Wars Movies",
+  "description": "Star Wars Movies restored from the original Journey catalogue",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "star-wars-movies",
+      "name": "Star Wars Movies"
+    }
+  ]
+}

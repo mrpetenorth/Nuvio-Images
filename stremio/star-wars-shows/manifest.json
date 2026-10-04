@@ -1,0 +1,19 @@
+{
+  "id": "com.mrpetenorth.starwarsshows",
+  "version": "1.0.0",
+  "name": "Star Wars Shows",
+  "description": "Star Wars Shows restored from the original Journey catalogue",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "series"
+  ],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "star-wars-shows",
+      "name": "Star Wars Shows"
+    }
+  ]
+}
