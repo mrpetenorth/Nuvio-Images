@@ -1,0 +1,19 @@
+{
+  "id": "com.mrpetenorth.christmas",
+  "version": "1.0.0",
+  "name": "Christmas Collection",
+  "description": "Christmas Collection restored from Plex",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "christmas",
+      "name": "Christmas Collection"
+    }
+  ]
+}
